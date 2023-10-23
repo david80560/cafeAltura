@@ -1,0 +1,83 @@
+
+body{
+     background-image: url(parcelafondo.jpg);
+ background-size: cover;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+}
+
+#container{
+width: 90%;
+margin: 0px auto;
+
+
+
+
+}
+
+header{
+
+
+
+
+}
+
+nav ul li{
+list-style: none;
+
+
+}
+
+.articleOne{
+
+
+}
+
+.articleTwo{
+
+
+}
+
+.letterOne{
+    font-size: large;
+
+}
+
+.logoWhats-01{
+    float: inline-start;
+    width: 25px;
+}
+
+.coca-01 {
+   
+    width: 300px;
+    height: 220px;
+    float: inline-end;
+}
+
+.formcontent{
+    font-weight: bold;
+
+}
+
+#content{
+
+    
+
+}
+
+
+.clearfix{
+    clear: both;
+
+}
+
+
+.finalinfo{
+    font-weight: bolder;
+    font-style: oblique;
+    font-feature-settings: "abvm";
+}
